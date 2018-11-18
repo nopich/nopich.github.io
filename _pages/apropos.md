@@ -1,1 +1,2 @@
-Qui sommes nous
+- Que souhaitons nous faire ?
+- Qui sommes nous ?
