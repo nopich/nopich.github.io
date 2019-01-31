@@ -23,7 +23,7 @@ Début 2018, nous avons réfléchi ensemble à un projet de recherche qui nous p
 
 Nous souhaitions vulgariser les concepts que l'on mobilisait et raconter comment nous travaillerions. Toute ces contraintes rentraient parfaitement dans le cadre d’un appel à projet visant à promouvoir la biologie évolutive. Cet appel à projet a été mis en place par les auteurs du livre Biologie évolutive aux éditions deBoek et l’argent est issue des bénéfices de la vente de ce livre. Nous avons été informé à la fin de l’été 2018 que notre projet avait été retenu. Nous voici début 2019, pour le lancement de notre travail de recherche et de médiation. 
 
-## Calendrier prévisionnel (2019) :
+## Calendrier (2019) :
 - Mars : première émission de radio présentant notre projet, illustrant l’utilisation de l’ADN pour comprendre l’évolution.
 - Avril : récolte des escargots (échantillonnage)
 - Mai : biologie moléculaire (extractions des ADNs, séquencage) et analyse des résultats.

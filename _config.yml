@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : true # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pierre"
+  name             : "Pierre et Jérôme"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Humain curieux"
+  bio              : "Humains curieux"
   location         : "Nantes, Fr"
   email            :
   links:
@@ -118,13 +118,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/opescargot/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/op.escargot/"
 
 # Site Footer
 footer:
