@@ -4,8 +4,8 @@ main:
     url: /_pages/actualite/
   - title: "A propos"
     url: /_pages/apropos/
-  - title: "Archive"
-    url: /_pages/listPosts/
+#  - title: "Archive"
+#    url: /_pages/listPosts/
   - title: "Contact"
     url: /_pages/contact/
   # - title: "About"

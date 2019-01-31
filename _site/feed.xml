@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-18T22:42:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Opération Escargot</title><subtitle>La plateforme qui vous renseigne sur l'opération escargot</subtitle><author><name>npc</name></author><entry><title type="html">Premier post, post d’éssai</title><link href="http://localhost:4000/first-post-ever/" rel="alternate" type="text/html" title="Premier post, post d'éssai" /><published>2018-11-18T00:00:00+01:00</published><updated>2018-11-18T00:00:00+01:00</updated><id>http://localhost:4000/first-post-ever</id><content type="html" xml:base="http://localhost:4000/first-post-ever/">&lt;p&gt;Voici un post qui contient un image d’escargot:
-&lt;img src=&quot;/assets/images/snail.png&quot; alt=&quot;un escargot vectorisé&quot; /&gt;&lt;/p&gt;</content><author><name>npc</name></author><summary type="html">Voici un post qui contient un image d’escargot:</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-31T22:30:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Op’ Escargot</title><subtitle>La plateforme de l'opération escargot</subtitle><author><name>Pierre</name></author><entry><title type="html">Présentation de l’opération escargot</title><link href="http://localhost:4000/presentation/" rel="alternate" type="text/html" title="Présentation de l'opération escargot" /><published>2019-01-10T00:00:00+01:00</published><updated>2019-01-10T00:00:00+01:00</updated><id>http://localhost:4000/presentation</id><content type="html" xml:base="http://localhost:4000/presentation/">&lt;p&gt;&lt;img src=&quot;/assets/images/Logo_V5.png&quot; alt=&quot;un escargot vectorisé&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Amis et scientifiques, nous avons décidé de porté un projet de médiation scientifique par la recherche, sur un sujet qui nous questionne tout les deux. Nous avons pensé ce travail comme l’union de nos intérêts et de nos domaines de compétences scientifiques avec l’envie de déplacer le laboratoire sur la place publique.&lt;/p&gt;
+
+&lt;h2 id=&quot;qui-sommes-nous-&quot;&gt;Qui sommes nous ?&lt;/h2&gt;
+&lt;p&gt;Jérôme a travaillé pendant son doctorat sur l’impact de l’urbanisation (nos villes) sur les communauté de fourmis (&lt;a href=&quot;https://jeromegippet.files.wordpress.com/2017/05/kaufmann2012.pdf&quot; title=&quot;Des Cités dans la Ville : les fourmis des milieux urbains denses et tertiaires &quot;&gt;Ici en Français&lt;/a&gt;).
+Il travaille désormais à Lausanne sur les introductions d’espèces, le commerce, en bref : le rôle de l’être l’humain dans la dispersion d’autres êtres vivants.
+Vous pouvez lire sa thèse &lt;a href=&quot;https://tel.archives-ouvertes.fr/tel-01474876&quot;&gt;ici (en anglais)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pierre a quant à lui étudié la biologie de la tique au cours de son doctorat (lien vers sa thèse à venir). Il aime comprendre les processus écologiques et évolutifs à travers des données issues de séquençage à haut débit (lecture de la séquence d’ADN).&lt;/p&gt;
+
+&lt;h2 id=&quot;historique&quot;&gt;Historique:&lt;/h2&gt;
+&lt;p&gt;Début 2018, nous avons réfléchi ensemble à un projet de recherche qui nous permettrait d’allier nos savoirs faire et notre curiosité:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Réfléchir sur la biodiversité en ville.&lt;/li&gt;
+  &lt;li&gt;Se questionner sur la dispersion des individus dans un paysage&lt;/li&gt;
+  &lt;li&gt;Explorer l’impact de nos activité humaines sur les processus évolutifs&lt;/li&gt;
+  &lt;li&gt;Manipuler des données issues de séquençage haut-débit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous souhaitions vulgariser les concepts que l’on mobilisait et raconter comment nous travaillerions. Toute ces contraintes rentraient parfaitement dans le cadre d’un appel à projet visant à promouvoir la biologie évolutive. Cet appel à projet a été mis en place par les auteurs du livre Biologie évolutive aux éditions deBoek et l’argent est issue des bénéfices de la vente de ce livre. Nous avons été informé à la fin de l’été 2018 que notre projet avait été retenu. Nous voici début 2019, pour le lancement de notre travail de recherche et de médiation.&lt;/p&gt;
+
+&lt;h2 id=&quot;calendrier-prévisionnel-2019-&quot;&gt;Calendrier prévisionnel (2019) :&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mars : première émission de radio présentant notre projet, illustrant l’utilisation de l’ADN pour comprendre l’évolution.&lt;/li&gt;
+  &lt;li&gt;Avril : récolte des escargots (échantillonnage)&lt;/li&gt;
+  &lt;li&gt;Mai : biologie moléculaire (extractions des ADNs, séquencage) et analyse des résultats.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-quoi-va-nous-servir-cette-page-internet-&quot;&gt;A quoi va nous servir cette page internet :&lt;/h2&gt;
+&lt;p&gt;Nous souhaitons communiquer sur la réalisation de notre projet de recherche. C’est pourquoi nous comptons alimenter cet espace de courtes brèves qui permettrons à ceux et celles qui le souhaitent de nous suivre et pourquoi pas d’interagir avec nous.&lt;/p&gt;</content><author><name>Pierre</name></author><summary type="html"></summary></entry></feed>
