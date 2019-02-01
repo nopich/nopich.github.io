@@ -2,8 +2,6 @@
 layout: actualite
 ---
 
-
-
 Voici les actualités du projet:
 <ul>
   {% for post in site.posts %}
